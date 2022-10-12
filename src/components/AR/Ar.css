@@ -1,0 +1,8 @@
+.Ar {
+  text-align: center;
+}
+
+.container {
+  position: relative;
+  overflow: hidden;
+}

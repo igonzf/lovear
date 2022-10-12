@@ -1,0 +1,70 @@
+{
+  "name": "mind-ar-react",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://igonzf06.github.io/lovear/",
+  "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "@material-ui/styles": "^4.11.5",
+    "@mui/icons-material": "^5.10.6",
+    "@mui/material": "^5.10.8",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "aframe": "^1.2.0",
+    "apexcharts": "^3.35.5",
+    "atomize": "^1.0.28",
+    "axios": "^1.1.2",
+    "bootstrap": "^4.6.2",
+    "font-awesome": "^4.7.0",
+    "mind-ar": "^1.0.0",
+    "react": "^17.0.1",
+    "react-apexcharts": "^1.4.0",
+    "react-dom": "^17.0.1",
+    "react-redux": "^8.0.4",
+    "react-router-dom": "^6.4.2",
+    "react-scripts": "^5.0.1",
+    "react-transition-group": "^4.4.5",
+    "react-validation": "^3.0.7",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.1",
+    "tinycolor2": "^1.4.2",
+    "validator": "^13.7.0",
+    "web-vitals": "^1.0.1"
+  },
+  "scripts": {
+    "start": "DISABLE_ESLINT_PLUGIN=true react-scripts start",
+    "build": "DISABLE_ESLINT_PLUGIN=true react-scripts build",
+    "test": "DISABLE_ESLINT_PLUGIN=true react-scripts test",
+    "eject": "DISABLE_ESLINT_PLUGIN=true react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.19.1",
+    "eslint": "^8.24.0",
+    "eslint-plugin-ft-flow": "^2.0.1",
+    "gh-pages": "^4.0.0"
+  }
+}
