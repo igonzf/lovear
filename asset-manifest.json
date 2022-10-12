@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lovear/static/css/main.a475d89f.css",
+    "main.js": "/lovear/static/js/main.de4709af.js",
+    "static/js/787.f9358337.chunk.js": "/lovear/static/js/787.f9358337.chunk.js",
+    "index.html": "/lovear/index.html",
+    "main.a475d89f.css.map": "/lovear/static/css/main.a475d89f.css.map",
+    "main.de4709af.js.map": "/lovear/static/js/main.de4709af.js.map",
+    "787.f9358337.chunk.js.map": "/lovear/static/js/787.f9358337.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a475d89f.css",
+    "static/js/main.de4709af.js"
+  ]
+}
